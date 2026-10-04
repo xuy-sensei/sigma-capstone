@@ -2,3 +2,9 @@
 Capstone project for course start.
 
 Run with python3 in terminal and follow on-screen instructions.
+
+To do:
+Singleplayer gamemode
+Checks for valid gamemode selection
+Check for stalemate
+Let player pick their symbol 
